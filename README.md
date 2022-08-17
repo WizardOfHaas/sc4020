@@ -6,8 +6,8 @@ The Stromberg-Carlson SC4020 was a fancy microfilm plotter(http://www.chilton-co
 
 # What do outputs look like?
 
-<img src="outputs/dust.gif" width="200">
-![Period Vector Example](outputs/text/002.png)
+<img src="outputs/grav.gif" width="500">
+<img src="outputs/text/002.png" width="500">
 
 # Why emulate the 4020?
 
