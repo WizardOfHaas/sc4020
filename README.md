@@ -4,6 +4,11 @@ This is currently in a rough state, so here be dragons!
 
 The Stromberg-Carlson SC4020 was a fancy microfilm plotter(http://www.chilton-computing.org.uk/acl/technology/sc4020/overview.htm). It was built in the 1960s and used for some of the earliest computer animations. The plotter follows a series of instructions on tape to draw vectors and plot text characters on film. It was a pretty spiffy machine.
 
+# What do outputs look like?
+
+![Period Vector Example](outputs/text/002.png)
+![Spiffy Animation Example](outputs/dust.gif)
+
 # Why emulate the 4020?
 
 Two main reasons:
