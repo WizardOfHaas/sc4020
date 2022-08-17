@@ -13,5 +13,5 @@ grav:
 test:
 	./a.out > code/f_test.sc
 	rm -f frames/*png
-	python plot.py code/f_test.sc
+	python sc4020.py code/f_test.sc
 	convert -delay 1 -loop 0 frames/*png frames/out.gif

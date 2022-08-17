@@ -1,3 +1,4 @@
 *.o
 *.mod
 frames/*
+a.out
